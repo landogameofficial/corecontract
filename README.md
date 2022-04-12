@@ -1,3 +1,3 @@
 # Core Contract
-core contract game
+# core contract game
 developing rule of P2E
