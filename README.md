@@ -1,0 +1,2 @@
+# corecontract
+core contract game
